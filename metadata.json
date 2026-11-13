@@ -1,0 +1,6 @@
+{
+  "name": "Trigonometriya Pegasi",
+  "description": "Maktab o'quvchilari uchun 2 kishilik och rangli, to'liq ovozli trigonometriya poyga test-o'yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
